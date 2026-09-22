@@ -1,0 +1,7 @@
+D:\Narendra Prakash Dinesha - X PPLG 2\AritmatikaPerkaliancs\AritmatikaPerkaliancs\bin\Debug\AritmatikaPerkaliancs.exe.config
+D:\Narendra Prakash Dinesha - X PPLG 2\AritmatikaPerkaliancs\AritmatikaPerkaliancs\bin\Debug\AritmatikaPerkaliancs.exe
+D:\Narendra Prakash Dinesha - X PPLG 2\AritmatikaPerkaliancs\AritmatikaPerkaliancs\bin\Debug\AritmatikaPerkaliancs.pdb
+D:\Narendra Prakash Dinesha - X PPLG 2\AritmatikaPerkaliancs\AritmatikaPerkaliancs\obj\Debug\AritmatikaPerkaliancs.csproj.AssemblyReference.cache
+D:\Narendra Prakash Dinesha - X PPLG 2\AritmatikaPerkaliancs\AritmatikaPerkaliancs\obj\Debug\AritmatikaPerkaliancs.csproj.CoreCompileInputs.cache
+D:\Narendra Prakash Dinesha - X PPLG 2\AritmatikaPerkaliancs\AritmatikaPerkaliancs\obj\Debug\AritmatikaPerkaliancs.exe
+D:\Narendra Prakash Dinesha - X PPLG 2\AritmatikaPerkaliancs\AritmatikaPerkaliancs\obj\Debug\AritmatikaPerkaliancs.pdb

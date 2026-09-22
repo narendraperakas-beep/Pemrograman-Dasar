@@ -1,0 +1,7 @@
+D:\Narendra Prakash Dinesha - X PPLG 2\LuasLingkarancs\LuasLingkarancs\bin\Debug\LuasLingkarancs.exe.config
+D:\Narendra Prakash Dinesha - X PPLG 2\LuasLingkarancs\LuasLingkarancs\bin\Debug\LuasLingkarancs.exe
+D:\Narendra Prakash Dinesha - X PPLG 2\LuasLingkarancs\LuasLingkarancs\bin\Debug\LuasLingkarancs.pdb
+D:\Narendra Prakash Dinesha - X PPLG 2\LuasLingkarancs\LuasLingkarancs\obj\Debug\LuasLingkarancs.csproj.AssemblyReference.cache
+D:\Narendra Prakash Dinesha - X PPLG 2\LuasLingkarancs\LuasLingkarancs\obj\Debug\LuasLingkarancs.csproj.CoreCompileInputs.cache
+D:\Narendra Prakash Dinesha - X PPLG 2\LuasLingkarancs\LuasLingkarancs\obj\Debug\LuasLingkarancs.exe
+D:\Narendra Prakash Dinesha - X PPLG 2\LuasLingkarancs\LuasLingkarancs\obj\Debug\LuasLingkarancs.pdb
